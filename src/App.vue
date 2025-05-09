@@ -33,8 +33,6 @@ border-radius: 8px;
 width: 750px;
 }
 .cajagrande{
-display: inline-block;
-background-color:black;
 border-radius:8px;
 border: 2px solid #ccc;
 width: 375px;
